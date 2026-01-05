@@ -1,4 +1,3 @@
-
 student_name = input("Enter the student's name: ")
 score = float(input("Enter the test score (0-100): "))
 
@@ -25,4 +24,5 @@ print(f"Student: {student_name}")
 print(f"Score:   {score}")
 print(f"Grade:   {grade}")
 print(f"Result:  {status}")
+
 print("-" * 20)
